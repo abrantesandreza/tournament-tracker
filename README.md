@@ -7,7 +7,7 @@ A Tournament Tracker that sets up a schedule for teams to play each other in a s
 - Office ping pong tournaments
 - Rec league playoffs
 - 3v3 basketball leagues
-- And many more..
+- And many more
 
 ## The Scenario
 
